@@ -10,3 +10,6 @@ flask-cors==4.0.0
 Werkzeug==2.3.7
 PyJWT==2.8.0
 matplotlib==3.4.2
+opencv-python==4.8.0.76
+tensorflow==2.13.0
+tqdm==4.66.1
