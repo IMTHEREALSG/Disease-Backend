@@ -1,8 +1,7 @@
-
 Pillow==10.0.0
 requests==2.31.0
 pandas==2.0.3
-numpy==1.25.2
+numpy==1.24.3  # Adjusted to be compatible with tensorflow
 gunicorn==21.2.0
 Flask==2.3.3
 flask-sqlalchemy==3.0.5
